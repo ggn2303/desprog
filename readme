@@ -1,0 +1,6 @@
+Open the code in the vs code or any c++ online compiler and run the program.
+Then choose Encryption or decryption .
+Type E for encryption or D for encryption.
+For encryption input the plaintext and then the hexadecimal number.
+For decryption input the hexadecimal number and then the ciphertext.
+Then enter and get the output. 
